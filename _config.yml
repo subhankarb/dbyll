@@ -3,29 +3,27 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
-disqus: dbyll
+disqus: bsubhankar
 google_analytics: dbyll
-title: dbyll
+title: The Journey
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: And miles to go before I sleep,
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: subhankar
   email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  github: subhankarb
+  linkedin: subhankar-biswas-07790a15
+  bio: The journey to become better than yesterday!
+  email_md5: 1c7aedd97f6841f8206a5da5581b80c5
 
 rss_path: feed.xml
 categories_path: categories.html

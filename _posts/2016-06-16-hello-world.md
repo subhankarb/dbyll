@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hello World!!
+categories: [general]
+tags: [thoughts]
+comments: true
+---
+**HELLO WORLD**. 
+
+
+    From very long time, i was thinking about write down my daily learning from my work and work related activities. This will be mostly technical work and POCs i will do. 
+
+    The aim for next one year is to write 50 posts . Let's begin the journey. 
