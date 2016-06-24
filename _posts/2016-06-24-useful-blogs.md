@@ -5,7 +5,8 @@ categories: [collections]
 tags: [collections]
 comments: true
 ---
-Some very popular bolgs one should follow
+Some very popular bolgs one should follow:
+
 * [High Scalability](http://highscalability.com/)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
 * [Engineering at Quora](http://engineering.quora.com/)
